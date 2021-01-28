@@ -6,3 +6,4 @@ Este repositorio contiene los scripts desarrollados para la clase de Eolica 2020
 * Sesion 4: Lanzas monedas, histogramas
 * Sesion 5: Distribuciones de probabilidad
 * Sesion 6: Evaluación del recurso eólico, métodos estadísticos y uso directo de los datos
+* netcdf: Estructura, lectura y operaciones de archivos netcdf
