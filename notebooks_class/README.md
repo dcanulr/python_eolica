@@ -1,5 +1,5 @@
 # Eolica 2020
-Este repositorio contiene los notebooks desarrollados para la clase de Eolica 2020
+Este repositorio contiene los scripts desarrollados para la clase de Eolica 2020
 * Introducción a Python. Variables, estructuras de control
 * Sesion 2: Funciones y matplotlib
 * Sesion 3: Más funciones (perfil logarítmico y por potencias), pandas
