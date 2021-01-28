@@ -1,6 +1,6 @@
 # Eolica 2020
 Este repositorio contiene los notebooks desarrollados para la clase de Eolica 2020
-* Introducción a Python 
+* Introducción a Python. Variables, estructuras de control
 * Sesion 2:
 * Sesion 3:
 * Sesion 4:
